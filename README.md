@@ -26,7 +26,7 @@ The AI evaluates all possible future game states and selects the best move, maki
 project/
 │
 ├── tictactoe_logic.py    # Game logic and AI implementation
-├── gui.py                # Tkinter graphical interface
+├── tic_tac_toi_gui.py    # Tkinter graphical interface
 └── README.md             # Project documentation
 ```
 
@@ -155,21 +155,21 @@ Repeat Until Game Ends
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-ai.git
+git clone https://github.com/MuhammadAli133/Tic-Tac-Toe.git
 ```
 
 ### Navigate to Project Folder
 
 ```bash
-cd tic-tac-toe-ai
+cd TIC TAC TOE
 ```
 
 ### Run the Application
 
 ```bash
-python gui.py
+python tic_tac_toi_gui.py
 ```
-
+make sure the python 3 is insatlled on your system before using it.
 ---
 
 ## Learning Objectives
